@@ -1,0 +1,95 @@
+2025-06-05 15:44:13 [INFO] Aplikacja uruchomiona
+2025-06-05 15:44:24 [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+2025-06-05 15:44:47 [INFO] Operacja negatywu zakończona
+2025-06-05 15:44:47 [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 15:56:24] [INFO] Uruchomienie aplikacji
+[2025-06-05 15:56:36] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 15:56:50] [INFO] Operacja negatywu zakończona
+[2025-06-05 15:56:50] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 15:56:56] [INFO] Obraz obrócono o -90°
+[2025-06-05 15:56:58] [INFO] Obraz obrócono o 90°
+[2025-06-05 15:56:59] [INFO] Obraz obrócono o 90°
+[2025-06-05 15:57:01] [INFO] Obraz obrócono o -90°
+[2025-06-05 16:03:05] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:03:17] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:03:24] [INFO] Rozpoczęto przetwarzanie zbiorcze
+[2025-06-05 16:09:43] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:09:47] [INFO] Użytkownik wczytał obraz: Piotr — Politechnika Wroclawska.url
+[2025-06-05 16:09:54] [INFO] Użytkownik wczytał obraz: Piotr — Politechnika Wroclawska.url
+[2025-06-05 16:09:55] [INFO] Zamknięcie aplikacji
+[2025-06-05 16:11:05] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:20:55] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:21:33] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:21:38] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:21:38] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:21:50] [INFO] Zapisano obraz: C:\Users\ten kosiorny\Pictures\kot śmieszny.jpg
+[2025-06-05 16:26:03] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:26:20] [INFO] Rozpoczęto przetwarzanie zbiorcze
+[2025-06-05 16:26:20] [INFO] Operacja zbiorcza zakończona: Progowanie
+[2025-06-05 16:26:20] [INFO] Operacja zbiorcza zakończona: Konturowanie
+[2025-06-05 16:26:20] [INFO] Operacja zbiorcza zakończona: Negatyw
+[2025-06-05 16:26:27] [INFO] Operacja konturowania zakończona
+[2025-06-05 16:26:27] [INFO] Użytkownik uruchomił operację: Konturowanie
+[2025-06-05 16:33:24] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:33:32] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:33:37] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:33:37] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:41:31] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:41:35] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:41:38] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:41:38] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:44:17] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:44:22] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:44:25] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:44:25] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:46:08] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:46:14] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:46:17] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:46:17] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:46:48] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:46:54] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:46:58] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:46:58] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:47:16] [INFO] Uruchomienie aplikacji
+[2025-06-05 16:47:22] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 16:47:25] [INFO] Operacja negatywu zakończona
+[2025-06-05 16:47:25] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 16:47:49] [INFO] Zapisano obraz: C:\Users\ten kosiorny\Pictures\asfsgvsdagrsdfgd.jpg
+[2025-06-05 16:47:51] [INFO] Zamknięcie aplikacji
+[2025-06-05 17:08:30] [INFO] Uruchomienie aplikacji
+[2025-06-05 17:12:36] [INFO] Uruchomienie aplikacji
+[2025-06-05 17:12:45] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 17:12:48] [INFO] Zamknięcie aplikacji
+[2025-06-05 17:13:22] [INFO] Uruchomienie aplikacji
+[2025-06-05 17:13:37] [INFO] Zamknięcie aplikacji
+[2025-06-05 17:16:52] [INFO] Uruchomienie aplikacji
+[2025-06-05 17:16:59] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 17:17:06] [INFO] Operacja konturowania zakończona
+[2025-06-05 17:17:06] [INFO] Użytkownik uruchomił operację: Konturowanie
+[2025-06-05 17:17:20] [INFO] Użytkownik przeskalował obraz do: 700x700
+[2025-06-05 17:17:29] [INFO] Rozpoczęto przetwarzanie zbiorcze
+[2025-06-05 17:17:30] [INFO] Operacja zbiorcza zakończona: Negatyw
+[2025-06-05 17:17:30] [INFO] Operacja zbiorcza zakończona: Progowanie
+[2025-06-05 17:17:30] [INFO] Operacja zbiorcza zakończona: Konturowanie
+[2025-06-05 17:17:41] [INFO] Zapisano obraz: C:\Users\ten kosiorny\Pictures\kot.jpg
+[2025-06-05 17:18:42] [INFO] Operacja progowania zakończona
+[2025-06-05 17:18:42] [INFO] Użytkownik uruchomił operację: Progowanie
+[2025-06-05 17:19:00] [INFO] Użytkownik przeskalował obraz do: 100x100
+[2025-06-05 17:19:08] [INFO] Użytkownik przywrócił oryginalne wymiary obrazu
+[2025-06-05 17:19:18] [INFO] Zamknięcie aplikacji
+[2025-06-05 17:20:18] [INFO] Uruchomienie aplikacji
+[2025-06-05 17:20:26] [INFO] Użytkownik wczytał obraz: 311917669_3192228951026340_7178570294124765019_n.jpg
+[2025-06-05 17:20:36] [INFO] Użytkownik przeskalował obraz do: 100x100
+[2025-06-05 17:20:39] [INFO] Użytkownik przywrócił oryginalne wymiary obrazu
+[2025-06-05 17:20:49] [INFO] Rozpoczęto przetwarzanie zbiorcze
+[2025-06-05 17:20:49] [INFO] Operacja zbiorcza zakończona: Progowanie
+[2025-06-05 17:20:49] [INFO] Operacja zbiorcza zakończona: Konturowanie
+[2025-06-05 17:20:50] [INFO] Operacja zbiorcza zakończona: Negatyw
+[2025-06-05 17:20:54] [INFO] Obraz obrócono o -90°
+[2025-06-05 17:20:56] [INFO] Obraz obrócono o 90°
+[2025-06-05 17:21:03] [INFO] Operacja negatywu zakończona
+[2025-06-05 17:21:03] [INFO] Użytkownik uruchomił operację: Negatyw
+[2025-06-05 17:21:10] [INFO] Operacja progowania zakończona
+[2025-06-05 17:21:10] [INFO] Użytkownik uruchomił operację: Progowanie
+[2025-06-05 17:21:28] [INFO] Zapisano obraz: C:\Users\ten kosiorny\Pictures\kot_śmieszny.jpg
+[2025-06-05 17:22:37] [INFO] Zamknięcie aplikacji

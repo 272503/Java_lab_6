@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.example.java_fx1.HelloController">
+
+    <!-- Nagłówek z tytułem i logo -->
+    <top>
+        <VBox spacing="10" alignment="CENTER">
+            <Label text="Aplikacja do przetwarzania obrazów" style="-fx-font-size: 18px; -fx-font-weight: bold;"/>
+            <ImageView fx:id="logoImage" fitHeight="80" preserveRatio="true"/>
+
+            <!-- Główne przyciski -->
+            <HBox spacing="10" alignment="CENTER">
+                <Button text="Wczytaj obraz" onAction="#onLoadImageClick" fx:id="loadButton"/>
+                <Button text="Skaluj obraz" onAction="#onScaleImageClick" fx:id="scaleButton" disable="true"/>
+                <Button text="Zapisz obraz" fx:id="saveResultButton" onAction="#onSaveResultClick" disable="true"/>
+                <Button text="Zrób wszystko" onAction="#onBatchProcessClick" fx:id="BatchProcessButton" disable="true"/>
+                <Button text="↺" fx:id="rotateLeftButton" onAction="#onRotateLeftClick" disable="true"/>
+                <Button text="↻" fx:id="rotateRightButton" onAction="#onRotateRightClick" disable="true"/>
+            </HBox>
+
+            <!-- Dynamicznie dodawane opcje -->
+            <VBox fx:id="dynamicOptionsBox" spacing="10" alignment="CENTER" maxWidth="300"/>
+
+            <!-- Operacje z listy -->
+            <HBox spacing="10" alignment="CENTER">
+                <ComboBox fx:id="operationComboBox" promptText="Wybierz operację"/>
+                <Button text="Wykonaj" fx:id="executeButton" onAction="#onExecuteClick" disable="true"/>
+            </HBox>
+        </VBox>
+    </top>
+
+    <!-- Środkowa część z obrazami -->
+    <center>
+        <HBox spacing="20" alignment="CENTER">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+            <ImageView fx:id="originalImageView" fitWidth="350" preserveRatio="true"/>
+            <VBox alignment="CENTER" spacing="10">
+                <Label text="Rezultaty:" style="-fx-font-size: 14px;"/>
+                <HBox fx:id="additionalResultsBox" spacing="10" alignment="CENTER"/>
+            </VBox>
+        </HBox>
+    </center>
+
+    <!-- Panel dolny -->
+    <bottom>
+        <VBox spacing="10" alignment="CENTER">
+            <Label fx:id="footerLabel" text="Autor: Piotr Kosior" style="-fx-font-size: 10px;" />
+        </VBox>
+    </bottom>
+
+</BorderPane>
